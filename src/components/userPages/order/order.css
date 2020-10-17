@@ -1,0 +1,25 @@
+.order-main-div{
+    background-color: #F4F7FC;
+}
+.order-form-inputs{
+    display: block;
+    width: 570px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 40px;
+    border: 1px solid rgb(206, 201, 201);
+    padding: 15px;
+    border-radius: 3px;
+}
+.order-price-input{
+    width: 260px;
+    display: inline;
+}
+.order-form-inputs:focus{
+    outline: none;
+}
+.order-action-input{
+    display: none;
+}

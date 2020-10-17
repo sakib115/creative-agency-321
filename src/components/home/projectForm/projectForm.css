@@ -1,0 +1,9 @@
+.projectForm-main-div{
+    height: 90vh;
+    margin-top: 150px;
+}
+.form-inputs{
+    height: 70px;
+    border-radius: 3px;
+    font-size: 20px;
+}
